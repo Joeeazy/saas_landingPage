@@ -14,6 +14,20 @@ export const Header = () => {
           <p>Get Started For Free</p>
           <ArrowRight className="h-4 w-4 inline-flex justify-center items-center " />
         </div>
+        <p className="text-white/60 hidden md:block">
+          Streamline your workflow and boost your productivity
+        </p>
+        <div className="inline-flex gap-1 items-center">
+          <p>Get Started For Free</p>
+          <ArrowRight className="h-4 w-4 inline-flex justify-center items-center " />
+        </div>
+        <p className="text-white/60 hidden md:block">
+          Streamline your workflow and boost your productivity
+        </p>
+        <div className="inline-flex gap-1 items-center">
+          <p>Get Started For Free</p>
+          <ArrowRight className="h-4 w-4 inline-flex justify-center items-center " />
+        </div>
       </div>
       <div className="py-5">
         <div className="container">
